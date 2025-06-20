@@ -58,7 +58,7 @@ fi
 GOOD_BUILD="$1"
 BAD_BUILD="$2"
 
-# Debug output
+#  Debug output
 echo "Good build: $GOOD_BUILD" >&2
 echo "Bad build: $BAD_BUILD" >&2
 
